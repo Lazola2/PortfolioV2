@@ -1,0 +1,89 @@
+{
+    "testimonials": [
+        {
+            "id": 0,
+            "text": "He is a good observer. He understand his strengths very well and knows when to put it to good use. He is not afraid to ask for help when needed and also knows his boundaries.",
+            "attestent": {
+                "firstname": "Candice",
+                "lastname": "Amon",
+                "picture": "https://i.postimg.cc/TP7tcqsY/Candice.jpg"
+            },
+            "company": {
+                "name": "Life Choices",
+                "role": "Academy facilitator",
+                "logo": "https://i.postimg.cc/Hx8RpsVh/download.png"
+            }
+        },
+        {
+            "id": 1,
+            "text": "Lazola is a down to earth person who is always keen to do extra for other people. He is a wonderful developer, always finds new ways to improve himself and is resourceful to others as well.",
+            "attestent": {
+                "firstname": "Asandile",
+                "lastname": "Langeni",
+                "picture": "https://i.postimg.cc/fbbYTnNr/Asandile.jpg"
+            },
+            "company": {
+                "name": "Life Choices",
+                "role": "Collegue",
+                "logo": "https://i.postimg.cc/Hx8RpsVh/download.png"
+            }
+        },
+        {
+            "id": 2,
+            "text": "Lazola in my personal opinion is a hard worker. Always willing to help his peers / colleagues with their work. He is able to work fluidly and in an environment with different projects.",
+            "attestent": {
+                "firstname": "Matthew",
+                "lastname": "Thomas",
+                "picture": "https://i.postimg.cc/qvM2k6wS/Matthew.png"
+            },
+            "company": {
+                "name": "Life Choices",
+                "role": "Collegue",
+                "logo": "https://i.postimg.cc/Hx8RpsVh/download.png"
+            }
+        }
+        ,{
+            "id": 3,
+            "text": "Lazola is a very determined individual who is eager to learn more and always lends a helping hand. He has such a humble personality an a big heart.",
+            "attestent": {
+                "firstname": "Lindokuhle",
+                "lastname": "Mgoqi",
+                "picture": "https://i.postimg.cc/jdWrBM0F/Lindo.png"
+            },
+            "company": {
+                "name": "Life Choices",
+                "role": "Collegue",
+                "logo": "https://i.postimg.cc/Hx8RpsVh/download.png"
+            }
+        }
+        ,{
+            "id": 4,
+            "text": "Lazola has what appears to be a natural aptitude for coding/programming.",
+            "attestent": {
+                "firstname": "Seth",
+                "lastname": "Kallis",
+                "picture": "https://i.postimg.cc/PqXVnqv5/Seth.png"
+            },
+            "company": {
+                "name": "Life Choices",
+                "role": "Collegue",
+                "logo": "https://i.postimg.cc/Hx8RpsVh/download.png"
+            }
+        }
+        ,{
+            "id": 5,
+            "text": "Lazola is always willing to assist and is exceptionally gifted in coding. A rare gem in for any team with exceptional leadership skills.",
+            "attestent": {
+                "firstname": "Sakhe",
+                "lastname": "Mzolisa",
+                "picture": "https://i.postimg.cc/Kz8bHftL/Sakhe.jpg"
+            },
+            "company": {
+                "name": "Life Choices",
+                "role": "Collegue",
+                "logo": "https://i.postimg.cc/Hx8RpsVh/download.png"
+            }
+        }
+
+    ]
+}
